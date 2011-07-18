@@ -11,7 +11,7 @@ community help is needed to tranlate the remaining strings in 'strings.xml','arr
 (All|Translated|Remaining|FileName)
 -------------------------------
 (43|41|2)	\app\AccountAndSyncSettings\res\values-ar\strings.xml
-(4|4|0)	\app\ApplicationsProvider\res\values-ar\strings.xml
+(4|4|0)	        \app\ApplicationsProvider\res\values-ar\strings.xml
 (65|0|65)	\app\AppShare\res\values-ar\strings.xml
 (155|0|155)	\app\Backup\res\values-ar\strings.xml
 (119|118|1)	\app\Bluetooth\res\values-ar\strings.xml
@@ -22,24 +22,24 @@ community help is needed to tranlate the remaining strings in 'strings.xml','arr
 (29|29|0)	\app\CertInstaller\res\values-ar\strings.xml
 (25|0|25)	\app\CloudService\res\values-ar\strings.xml
 (308|262|46)	\app\Contacts\res\values-ar\strings.xml
-(5|5|0)	\app\ContactsProvider\res\values-ar\strings.xml
-(1|1|0)	\app\DefaultContainerService\res\values-ar\strings.xml
+(5|5|0)	        \app\ContactsProvider\res\values-ar\strings.xml
+(1|1|0)	        \app\DefaultContainerService\res\values-ar\strings.xml
 (56|55|1)	\app\DeskClock\res\values-ar\strings.xml
 (28|28|0)	\app\DownloadProvider\res\values-ar\strings.xml
 (27|26|1)	\app\DownloadProviderUi\res\values-ar\strings.xml
-(5|5|0)	\app\DrmProvider\res\values-ar\strings.xml
+(5|5|0)	        \app\DrmProvider\res\values-ar\strings.xml
 (236|236|0)	\app\Email\res\values-ar\strings.xml
 (83|0|83)	\app\FileExplorer\res\values-ar\strings.xml
 (153|0|153)	\app\Gallery\res\values-ar\strings.xml
 (241|0|241)	\app\Gmail\res\values-ar\strings.xml
-(1|0|1)	\app\GoogleCalendarSyncAdapter\res\values-ar\strings.xml
+(1|0|1)	        \app\GoogleCalendarSyncAdapter\res\values-ar\strings.xml
 (1|0|1)	\app\GoogleContactsSyncAdapter\res\values-ar\strings.xml
 (1|0|1)	\app\GooglePartnerSetup\res\values-ar\strings.xml
 (390|0|390)	\app\GoogleServicesFramework\res\values-ar\strings.xml
 (3|3|0)	\app\HTMLViewer\res\values-ar\strings.xml
 (102|0|102)	\app\LatinIME\res\values-ar\strings.xml
 (28|0|28)	\app\Launcher2\res\values-ar\strings.xml
-(9|9|0)	\app\LiveWallpapersPicker\res\values-ar\strings.xml
+(9|9|0)	 \app\LiveWallpapersPicker\res\values-ar\strings.xml
 (3|0|3)	\app\MarketUpdater\res\values-ar\strings.xml
 (3|3|0)	\app\MediaProvider\res\values-ar\strings.xml
 (77|0|77)	\app\MediaUploader\res\values-ar\strings.xml
