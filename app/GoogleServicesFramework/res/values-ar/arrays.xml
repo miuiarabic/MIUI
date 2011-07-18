@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>飞行积分会员号码？</item>
+        <item>借书证号码？</item>
+        <item>第一个电话号码？</item>
+        <item>启蒙老师的姓名？</item>
+        <item>父亲的中间名？</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>弱</item>
+        <item>中</item>
+        <item>强</item>
+        <item>强</item>
+    </string-array>
+</resources>

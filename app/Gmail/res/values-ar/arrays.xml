@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="prefEntries_confirmActions">
+        <item>وضع في الأرشيف</item>
+        <item>حذف</item>
+        <item>إرسال</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>رد</item>
+        <item>رد على الكل</item>
+        <item>إعادة توجيه</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>محادثة أحدث</item>
+        <item>محادثة أقدم</item>
+        <item>قائمة المحادثات</item>
+    </string-array>
+    <string-array name="prefEntries_messageTextSize">
+        <item>صغير</item>
+        <item>صغير</item>
+        <item>عادي</item>
+        <item>كبير</item>
+        <item>ضخم</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>لكل تنبيهات Gmail</item>
+        <item>في الوضع الصامت فقط</item>
+        <item>مطلقًا</item>
+    </string-array>
+</resources>

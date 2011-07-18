@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="word_separators">.	 ;:!?،؟؛؟\'\n()[]*&amp;@{}/&lt;&gt;_+=|\"</string>
+  <string name="sentence_separators">.،!؟)</string>
+  <string name="suggested_punctuations">!؟،\"\':()-/@_</string>
+  <string name="english_ime_name">لوحة مفاتيح Android</string>
+  <string name="english_ime_settings">إعدادات لوحة مفاتيح Android</string>
+  <string name="english_ime_input_options">خيارات الإرسال</string>
+  <string name="vibrate_on_keypress">اهتزاز عند الضغط على مفتاح</string>
+  <string name="sound_on_keypress">صوت عند الضغط على مفتاح</string>
+  <string name="popup_on_keypress">انبثاق عند الضغط على المفاتيح</string>
+  <string name="hit_correction">تصحيح أخطاء الكتابة</string>
+  <string name="hit_correction_summary">تمكين تصحيح خطأ الإدخال</string>
+  <string name="hit_correction_land">أخطاء في الإدخال الأفقي</string>
+  <string name="hit_correction_land_summary">تمكين تصحيح خطأ الإدخال</string>
+  <string name="auto_correction">اقتراحات الكلمات</string>
+  <string name="auto_correction_summary">تصحيح الكلمة السابقة تلقائيًا</string>
+  <string name="prediction">اقتراحات الكلمات</string>
+  <string name="prediction_category">إعدادات اقتراحات الكلمات</string>
+  <string name="prediction_summary">تمكين الإكمال التلقائي أثناء الكتابة</string>
+  <string name="auto_complete_dialog_title">إكمال تلقائي</string>
+  <string name="prediction_landscape">زيادة حجم الحقل النصي</string>
+  <string name="prediction_landscape_summary">إخفاء اقتراحات الكلمات في طريقة العرض الأفقية</string>
+  <string name="auto_cap">استخدام الأحرف الكبيرة تلقائيًا</string>
+  <string name="auto_cap_summary">استخدام الأحرف الكبيرة في بداية الجملة</string>
+  <string name="auto_punctuate">ترقيم تلقائي</string>
+  <string name="auto_punctuate_summary" />
+  <string name="quick_fixes">إصلاحات سريعة</string>
+  <string name="quick_fixes_summary">تصحيح الأخطاء المكتوبة الشائعة</string>
+  <string name="show_suggestions">عرض الاقتراحات</string>
+  <string name="show_suggestions_summary">عرض الكلمات المقترحة أثناء الكتابة</string>
+  <string name="auto_complete">إكمال تلقائي</string>
+  <string name="auto_complete_summary">مفتاح المسافة والترقيم لإدخال كلمة محددة تلقائيًا</string>
+  <string name="prefs_settings_key">عرض مفتاح الإعدادات</string>
+  <string name="settings_key_mode_auto_name">تلقائي</string>
+  <string name="settings_key_mode_always_show_name">إظهار بشكل دائم</string>
+  <string name="settings_key_mode_always_hide_name">إخفاء دومًا</string>
+  <string name="bigram_suggestion">اقتراحات ثنائية</string>
+  <string name="bigram_suggestion_summary">استخدام الكلمة السابقة لتحسين الاقتراح</string>
+  <string name="added_word">%s : تم الحفظ</string>
+  <string name="tip_long_press">اضغط باستمرار على أحد المفاتيح لأسفل لمشاهدة علامات التشكيل</string>
+  <string name="tip_dismiss">اضغط على مفتاح الرجوع ↶ لإغلاق لوحة المفاتيح في أي نقطة</string>
+  <string name="tip_access_symbols">الدخول إلى الأرقام والرموز</string>
+  <string name="tip_add_to_dictionary">اضغط مع الاستمرار على أقصى يمين الكلمة لإضافتها إلى القاموس</string>
+  <string name="touch_to_continue">المس هذا التلميح للمتابعة »</string>
+  <string name="touch_to_finish">المس هنا لإغلاق هذا التلميح وبدء الكتابة!</string>
+  <string name="tip_to_open_keyboard">
+    <b>تفتح لوحة المفاتيح في أي وقت تلمس فيه حقلًا نصيًا</b>
+  </string>
+  <string name="tip_to_view_accents">
+    <b>المس مع الاستمرار أحد المفاتيح لعرض علامات التشكيل\n(ø, ö, ô, ó, وهكذا)</b>
+  </string>
+  <string name="tip_to_open_symbols">
+    <b>التبديل إلى الأرقام والرموز من خلال لمس هذا الزر</b>
+  </string>
+  <string name="tip_to_close_symbols">
+    <b>يمكنك الرجوع إلى الأحرف من خلال لمس هذا المفتاح مرة أخرى</b>
+  </string>
+  <string name="tip_to_launch_settings">
+    <b>المس هذا المفتاح مع الاستمرار لتغيير إعدادات لوحة المفاتيح، مثل الإكمال التلقائي</b>
+  </string>
+  <string name="tip_to_start_typing">
+    <b>جربه!</b>
+  </string>
+  <string name="label_go_key">تنفيذ</string>
+  <string name="label_next_key">التالي</string>
+  <string name="label_done_key">تم</string>
+  <string name="label_send_key">إرسال</string>
+  <string name="label_symbol_key">٣٢١؟</string>
+  <string name="label_phone_key">٣٢١</string>
+  <string name="label_alpha_key">ب ت ث</string>
+  <string name="label_alt_key">ALT</string>
+  <string name="voice_warning_title">الإدخال الصوتي</string>
+  <string name="voice_warning_locale_not_supported">الإدخال الصوتي غير معتمد حاليًا للغتك، ولكنه يعمل باللغة الإنجليزية.</string>
+  <string name="voice_warning_may_not_understand">الإدخال الصوتي هو ميزة تجريبية تستخدم التعرف على الكلام المتصل في Google.</string>
+  <string name="voice_warning_how_to_turn_off">لتشغيل الإدخال الصوتي، انتقل إلى إعدادات لوحة المفاتيح.</string>
+  <string name="voice_hint_dialog_message">لاستخدام الإدخال الصوتي، اضغط على زر الميكروفون أو مرر إصبعك عبر لوحة المفاتيح على الشاشة.</string>
+  <string name="voice_listening">تحدث الآن</string>
+  <string name="voice_working">العمل</string>
+  <string name="voice_initializing" />
+  <string name="voice_error">خطأ. الرجاء المحاولة مرة أخرى.</string>
+  <string name="voice_network_error">تعذر الاتصال</string>
+  <string name="voice_too_much_speech">خطأ، كلام أكثر مما ينبغي.</string>
+  <string name="voice_audio_error">مشكلة بالإعدادات الصوتية</string>
+  <string name="voice_server_error">خطأ في الخادم</string>
+  <string name="voice_speech_timeout">لم يتم سماع كلام</string>
+  <string name="voice_no_match">لم يتمّ العثور على أية تطابقات</string>
+  <string name="voice_not_installed">لم يتم تثبيت البحث الصوتي</string>
+  <string name="voice_swipe_hint">
+    <b>تلميح:</b> مرر عبر لوحة المفاتيح للتحدث</string>
+  <string name="voice_punctuation_hint">
+    <b>تلميح:</b> جرب في المرة التالية نطق الترقيم مثل \"نقطة\" أو \"فاصلة\" أو \"علامة استفهام\".</string>
+  <string name="cancel">إلغاء</string>
+  <string name="ok">موافق</string>
+  <string name="voice_input">الإدخال الصوتي</string>
+  <string name="auto_submit">إرسال تلقائي بعد الصوت</string>
+  <string name="auto_submit_summary">الضغط تلقائيًا على المفتاح enter عند البحث أو الانتقال إلى الحقل التالي.</string>
+  <string name="open_the_keyboard">
+    <b>
+      <font size="17">افتح لوحة المفاتيح\n</font>
+    </b>
+    <font size="3">\n</font>المس أي حقل نصي.</string>
+  <string name="close_the_keyboard">
+    <b>
+      <font size="17">إغلاق لوحة المفاتيح\n</font>
+    </b>
+    <font size="3">\n</font>اضغط على المفتاح \"رجوع\".</string>
+  <string name="touch_and_hold">
+    <b>
+      <font size="17">المس أحد مفاتيح الخيارات مع الاستمرار\n</font>
+    </b>
+    <font size="3">\n</font>الدخول إلى الترقيم والحركات.</string>
+  <string name="keyboard_settings">
+    <b>
+      <font size="17">إعدادات لوحة المفاتيح\n</font>
+    </b>
+    <font size="3">\n</font>المس مع الاستمرار المفتاح <b>?123</b>.</string>
+  <string name="popular_domain_0">com.</string>
+  <string name="popular_domain_1">net.</string>
+  <string name="popular_domain_2">org.</string>
+  <string name="popular_domain_3">gov.</string>
+  <string name="popular_domain_4">edu.</string>
+  <string name="selectInputMethod">تحديد طريقة الإرسال</string>
+  <string name="language_selection_title">لغات الإدخال</string>
+  <string name="language_selection_summary">مرر إصبعك على مفتاح المسافة لتغيير اللغة</string>
+  <string name="hint_add_to_dictionary">← المس مرة أخرى للحفظ</string>
+  <string name="has_dictionary">القاموس متاح</string>
+  <string name="prefs_enable_log">تمكين ملاحظات المستخدم</string>
+  <string name="prefs_description_log">المساعدة في تحسين محرر طريقة الإرسال هذا من خلال إرسال إحصاءات الاستخدام وتقارير الأعطال تلقائيًا إلى Google.</string>
+  <string name="prefs_enable_recorrection">المس لتصحيح الكلمات</string>
+  <string name="prefs_enable_recorrection_summary">المس الكلمات المدخلة لتصحيحها</string>
+  <string name="keyboard_layout">مظهر لوحة المفاتيح</string>
+  <string name="subtype_mode_keyboard">لوحة مفاتيح</string>
+  <string name="subtype_mode_voice">صوت</string>
+</resources>

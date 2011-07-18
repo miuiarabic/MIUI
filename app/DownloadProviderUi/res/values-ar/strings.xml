@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_label">التنزيلات</string>
+  <string name="download_title">التنزيلات</string>
+  <string name="no_downloads">ليس هناك أي تنزيلات</string>
+  <string name="missing_title">Unknown</string>
+  <string name="download_menu_sort_by_size">التصنيف بحسب الحجم</string>
+  <string name="download_menu_sort_by_date">تصنيف بحسب الوقت</string>
+  <string name="download_queued">في الانتظار</string>
+  <string name="download_running">قيد التقدم</string>
+  <string name="download_success">مكتمل</string>
+  <string name="download_error">أخفق</string>
+  <string name="dialog_title_not_available">إخفاق التنزيل</string>
+  <string name="dialog_failed_body">هل تريد إعادة محاولة تنزيل الملف لاحقًا أو حذفه من قائمة الانتظار؟</string>
+  <string name="dialog_title_queued_body">الملف غير متوفر بعد</string>
+  <string name="dialog_queued_body">هذا الملف في قائمة الانتظار لتنزيله لاحقًا.</string>
+  <string name="dialog_file_missing_body">تعذر العثور على الملف الذي تم تنزيله.</string>
+  <string name="dialog_insufficient_space_on_external">لا يمكن إنهاء التنزيل. ليس هناك مساحة كافية على وحدة التخزين الخارجية.</string>
+  <string name="dialog_insufficient_space_on_cache">لا يمكن إنهاء التنزيل. ليس هناك مساحة كافية على وحدة تخزين التنزيل الداخلية.</string>
+  <string name="dialog_cannot_resume">تمت مقاطعة التنزيل. ولا يمكن استئنافه.</string>
+  <string name="dialog_file_already_exists">لا يمكن التنزيل. ملف الوجهة موجود من قبل.</string>
+  <string name="dialog_media_not_found">لا يمكن التنزيل. الوسائط الخارجية غير متوفرة.</string>
+  <string name="download_no_application_title">لا يمكن فتح الملف</string>
+  <string name="remove_download">إزالة</string>
+  <string name="delete_download">حذف</string>
+  <string name="keep_queued_download">مواصلة</string>
+  <string name="cancel_running_download">إلغاء</string>
+  <string name="retry_download">إعادة المحاولة</string>
+  <string name="deselect_all">محو التحديد</string>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <array name="entries_checkrate_choices">
+        <item>@string/notification_checkrate_1</item>
+        <item>@string/notification_checkrate_2</item>
+        <item>@string/notification_checkrate_3</item>
+        <item>@string/notification_checkrate_4</item>
+    </array>
+    <array name="post_per_page">
+        <item>@string/post_per_page_1</item>
+        <item>@string/post_per_page_2</item>
+        <item>@string/post_per_page_3</item>
+        <item>@string/post_per_page_4</item>
+        <item>@string/post_per_page_5</item>
+    </array>
+    <array name="tapatalk_signature">
+        <item>@string/tapatalk_singature_1</item>
+        <item>@string/tapatalk_singature_2</item>
+        <item>@string/tapatalk_singature_3</item>
+        <item>@string/tapatalk_singature_4</item>
+    </array>
+    <array name="tapatalk_upload">
+        <item>@string/TapPreferenceActivity_upload_full</item>
+        <item>@string/TapPreferenceActivity_upload_better_quality</item>
+        <item>@string/TapPreferenceActivity_upload_fast_transfer</item>
+    </array>
+    <array name="tapatalk_tab">
+        <item>@string/TapPreferenceActivity_latest_tab</item>
+        <item>@string/TapPreferenceActivity_forum_tab</item>
+        <item>@string/TapPreferenceActivity_favoriate_tab</item>
+        <item>@string/TapPreferenceActivity_pm_tab</item>
+    </array>
+    <array name="thread_theme">
+        <item>@string/TapPreferenceActivity_thread_theme_light</item>
+        <item>@string/TapPreferenceActivity_thread_theme_dark</item>
+    </array>
+    <array name="account_settings_vibrate_when_entries">
+        <item>@string/account_settings_vibrate_when_always</item>
+        <item>@string/account_settings_vibrate_when_silent</item>
+        <item>@string/account_settings_vibrate_when_never</item>
+    </array>
+    <string-array name="account_settings_vibrate_when_values">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <array name="account_settings_check_frequency_entries_push">
+        <item>@string/account_setup_options_mail_check_frequency_5min</item>
+        <item>@string/account_setup_options_mail_check_frequency_15min</item>
+        <item>@string/account_setup_options_mail_check_frequency_30min</item>
+        <item>@string/account_setup_options_mail_check_frequency_1hour</item>
+        <item>@string/account_setup_options_mail_check_frequency_2hour</item>
+        <item>@string/account_setup_options_mail_check_frequency_4hour</item>
+        <item>@string/account_setup_options_mail_check_frequency_12hour</item>
+    </array>
+    <string-array name="account_settings_check_frequency_values_push">
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>240</item>
+        <item>720</item>
+    </string-array>
+    <array name="landing_behavior">
+        <item>@string/jump_unread_oldest_post</item>
+        <item>@string/jump_unread_first_unread</item>
+        <item>@string/jump_unread_latest_post</item>
+    </array>
+</resources>

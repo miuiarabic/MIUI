@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="unrestricted_packages">
+        <item>com.android.contacts</item>
+        <item>com.facebook.katana</item>
+        <item>com.android.mms</item>
+        <item>com.google.android.gm</item>
+        <item>com.android.email</item>
+        <item>com.android.phone</item>
+        <item>com.google.android.apps.maps</item>
+        <item>com.android.globalsearch</item>
+        <item>com.android.calendar</item>
+        <item>com.google.android.talk</item>
+        <item>android</item>
+    </string-array>
+</resources>

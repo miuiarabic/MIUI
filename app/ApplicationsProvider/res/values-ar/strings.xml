@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_label">مزودو تطبيقات البحث</string>
+  <string name="search_label">تطبيقات</string>
+  <string name="application_desc">التطبيق</string>
+  <string name="settings_description">أسماء التطبيقات المثبتة</string>
+</resources>

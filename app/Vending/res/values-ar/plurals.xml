@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="notification_restored_success_message">
+        <item quantity="other">%1$d 个应用程序已还原。</item>
+        <item quantity="one">%1$d 个应用程序已还原。</item>
+    </plurals>
+    <plurals name="info_ratercount_label">
+        <item quantity="other">%1$s 项评分</item>
+        <item quantity="one">%1$s 个评分</item>
+    </plurals>
+    <plurals name="search_complete_title">
+        <item quantity="other">%1$d 项符合“%2$s”的搜索结果</item>
+        <item quantity="one">%1$d 条符合“%2$s”的结果</item>
+    </plurals>
+</resources>

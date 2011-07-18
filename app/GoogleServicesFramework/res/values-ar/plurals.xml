@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">%d 秒后重启手机并安装更新...</item>
+        <item quantity="one">1 秒后重启手机并安装更新...</item>
+    </plurals>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">不能在手机上使用此帐户，因为它缺少以下应用程序：^1。请联系 &lt;b>^2&lt;/b> 的域管理员，或者使用其他帐户登录。</item>
+        <item quantity="one">不能在手机上使用此帐户，因为它缺少以下应用程序：^1。请联系 &lt;b>^2&lt;/b> 的域管理员，或者使用其他帐户登录。</item>
+    </plurals>
+</resources>

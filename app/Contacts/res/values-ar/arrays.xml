@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="pick_photo_values">
+        <item>Take photo</item>
+        <item>From album</item>
+        <item>Pick Avatar</item>
+        <item>Restore Default</item>
+    </string-array>
+    <string-array name="pick_incoming_call_photo_values">
+        <item>Take photo</item>
+        <item>From album</item>
+    </string-array>
+    <string-array name="edit_incoming_call_photo_values">
+        <item>Take photo</item>
+        <item>From album</item>
+        <item>Edit picture size</item>
+        <item>Delete</item>
+    </string-array>
+    <array name="callrecordview_menu_show_values">
+        <item>@string/callrecordview_menu_show_all</item>
+        <item>@string/callrecordview_menu_show_missed</item>
+        <item>@string/callrecordview_menu_show_called</item>
+        <item>@string/callrecordview_menu_show_accepted</item>
+        <item>@string/callrecordview_menu_show_stranger</item>
+    </array>
+</resources>

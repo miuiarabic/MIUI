@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s 条符合“%2$s”的搜索结果</item>
+    </plurals>
+</resources>

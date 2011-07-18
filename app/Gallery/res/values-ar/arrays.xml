@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="animation">
+        <item>No animation</item>
+        <item>Fade</item>
+        <item>Dial</item>
+        <item>Page</item>
+        <item>Cascade</item>
+        <item>Rotation</item>
+        <item>3D Cube</item>
+        <item>Cover Flow</item>
+    </string-array>
+    <string-array name="animation_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

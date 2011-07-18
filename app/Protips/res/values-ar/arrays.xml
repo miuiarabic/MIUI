@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="tips">
+        <item>查看手机上的所有应用程序。\n点一下“启动程序”图标。@drawable/all_apps</item>
+        <item>将应用程序拖至主屏幕。\n触摸并按住启动器中的一个应用程序，直到它发出振动。</item>
+        <item>整理手机的主屏幕。\n按住某项直至手机振动，然后将其拖到所需的位置。</item>
+        <item>删除某项。\n按住该项直至手机震动，然后将其拖入“垃圾桶”图标。@drawable/trash</item>
+        <item>有多个主屏幕。\n用手指在屏幕上左右滑动即可切换显示，并可在各主屏幕之间移动图标。</item>
+        <item>不再需要此窗口小部件？\n按住它直至手机振动，然后将其拖入“垃圾桶”图标。</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">مجموعة أدوات بطاقة SIM</string>
+  <string name="menu_end_session">إنهاء الجلسة</string>
+  <string name="help">مساعدة</string>
+  <string name="menu_back">رجوع</string>
+  <string name="service_name">اسم الخدمة</string>
+  <string name="stk_no_service">لا تتوفر خدمة</string>
+  <string name="button_ok">موافق</string>
+  <string name="button_cancel">إلغاء</string>
+  <string name="button_yes">نعم</string>
+  <string name="button_no">لا</string>
+  <string name="alphabet">الحروف الأبجدية</string>
+  <string name="digits">الأرقام (0-9، *، #، +)</string>
+  <string name="default_call_setup_msg">الاتصال قيد التقدم...</string>
+  <string name="stk_app_state">حالة التطبيق</string>
+  <string name="enable_app">تم التمكين</string>
+  <string name="disable_app">معطّل</string>
+</resources>

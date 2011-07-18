@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">أداة تثبيت الحزم</string>
+  <string name="install">تثبيت</string>
+  <string name="done">تم</string>
+  <string name="security_settings_desc">السماح لهذا التطبيق بـ:</string>
+  <string name="cancel">إلغاء</string>
+  <string name="unknown">غير معروف</string>
+  <string name="installing">جارٍ التثبيت...</string>
+  <string name="install_done">التطبيق مثبت</string>
+  <string name="install_confirm_question">هل تريد تثبيت هذا التطبيق؟</string>
+  <string name="install_failed">التطبيق غير مثبت</string>
+  <string name="install_failed_msg">تعذر تثبيت %1$s على هذا الهاتف.</string>
+  <string name="launch">فتح</string>
+  <string name="unknown_apps_dlg_title">التثبيت محظور</string>
+  <string name="unknown_apps_dlg_text">لدواعي الأمان، تم تعيين هاتفك على حظر تثبيت التطبيقات التي لم يتم الحصول عليها من سوق Android Market.</string>
+  <string name="ok">موافق</string>
+  <string name="settings">الإعدادات</string>
+  <string name="manage_applications">إدارة التطبيقات</string>
+  <string name="dlg_app_replacement_title">استبدال تطبيق</string>
+  <string name="dlg_app_replacement_statement">سيحل التطبيق الذي ثبّته محل تطبيق آخر.\n\nسيتم حفظ جميع بيانات المستخدم السابقة.</string>
+  <string name="dlg_sys_app_replacement_statement">هذا تطبيق نظام. ألا تزال تريد استبداله؟\n\nسيتم حفظ جميع بيانات المستخدم السابقة.</string>
+  <string name="out_of_space_dlg_title">نفدت مساحة التخزين</string>
+  <string name="out_of_space_dlg_text">تعذر تثبيت %1$s. الرجاء تحرير بعض المساحة والمحاولة مرة أخرى.</string>
+  <string name="dlg_ok">موافق</string>
+  <string name="app_not_found_dlg_title">التطبيق غير موجود</string>
+  <string name="app_not_found_dlg_text">لم يتم العثور على التطبيق في قائمة التطبيقات المثبتة.</string>
+  <string name="uninstall_application_question">هل تريد إزالة التطبيق؟</string>
+  <string name="uninstall_update_question">هل تريد إزالة التحديث؟</string>
+  <string name="uninstall_application_text">ستتم إزالة هذا التطبيق.</string>
+  <string name="uninstall_update_text">ستتم إزالة تحديث التطبيق. ما زال بإمكانك استخدام إصدار المصنع للتطبيق.</string>
+  <string name="uninstalling">جارٍ الإزالة...</string>
+  <string name="uninstall_done">انتهت الإزالة</string>
+  <string name="uninstall_failed">لم تنجح الإزالة</string>
+  <string name="uninstall_failed_msg">تعذرت إزالة %1$s</string>
+  <string name="Parse_error_dlg_title">خطأ في التحليل</string>
+  <string name="Parse_error_dlg_text">هناك مشكلة في تحليل الحزمة.</string>
+</resources>

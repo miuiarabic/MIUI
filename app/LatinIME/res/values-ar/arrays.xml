@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>لا شيء</item>
+        <item>أساسي</item>
+        <item>متقدم</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>في لوحة المفاتيح الرئيسية</item>
+        <item>على لوحة مفاتيح الرموز</item>
+        <item>إيقاف</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>الميكروفون في لوحة المفاتيح الرئيسية</item>
+        <item>الميكروفون على لوحة مفاتيح الرموز</item>
+        <item>تم تعطيل الإدخال الصوتي</item>
+    </string-array>
+</resources>

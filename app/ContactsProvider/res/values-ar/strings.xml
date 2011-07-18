@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_label">تخزين جهات الاتصال</string>
+  <string name="provider_label">جهات الاتصال</string>
+  <string name="upgrade_out_of_memory_notification_ticker">تحتاج ترقية جهة الاتصال إلى مزيد من الذاكرة</string>
+  <string name="upgrade_out_of_memory_notification_title">سعة تخزين ترقية جهة الاتصال</string>
+  <string name="upgrade_out_of_memory_notification_text">حدد لإكمال الترقية.</string>
+</resources>

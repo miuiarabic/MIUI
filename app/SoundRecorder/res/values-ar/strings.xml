@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">مسجِّل الصوت</string>
+  <string name="recording">جارٍ التسجيل</string>
+  <string name="recording_stopped">توقف التسجيل</string>
+  <string name="storage_is_full">السعة التخزينية ممتلئة</string>
+  <string name="max_length_reached">تم بلوغ الحد الأقصى للطول</string>
+  <string name="insert_sd_card">Please insert an SD card</string>
+  <string name="button_ok">موافق</string>
+  <string name="audio_db_artist_name">تسجيلاتك</string>
+  <string name="audio_db_album_name">التسجيلات الصوتية</string>
+  <string name="audio_db_playlist_name">تسجيلاتي</string>
+  <string name="error_sdcard_access">Unable to access SD card</string>
+  <string name="error_app_internal">خطأ داخلي بالتطبيق</string>
+  <string name="error_mediadb_new_record">يتعذر حفظ الصوت المسجّل</string>
+  <string name="default_record_name">untitled recording</string>
+  <string name="menu_view_record_list">Browse recordings</string>
+  <string name="menu_setting">Settings</string>
+  <string name="delete_dialog_title">Do you want to delete current recording?</string>
+  <string name="overwrite_dialog_title">%s already exists, do you want to overwrite it?</string>
+  <string name="preferences_title">Settings</string>
+  <string name="pref_title_record_type">Recording file type</string>
+  <string name="prefDialogTitle_recordType">Please select file type</string>
+  <string name="pref_title_enable_high_quality">Enable high quality</string>
+  <string name="pref_summary_enable_high_quality">High quality may result in a larger file size</string>
+  <string name="pref_title_enable_sound_effect">Enable sound effects</string>
+  <string name="pref_summary_enable_sound_effect">Play sound when recording state is changed</string>
+  <string name="notification_recording">Recording</string>
+  <string name="notification_stopped">Recording has stopped</string>
+</resources>

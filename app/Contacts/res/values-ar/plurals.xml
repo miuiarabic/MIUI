@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="groupDescrip">
+        <item quantity="other">%0$d 位联系人</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">共 %1$d 位联系人，其中 %2$d 位有电话号码</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">显示 %d 位有电话号码的联系人</item>
+        <item quantity="one">显示 1 位有电话号码的联系人</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">显示 %d 位联系人</item>
+        <item quantity="one">显示 1 位联系人</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">找到 %d 位联系人</item>
+        <item quantity="one">找到 1 位联系人</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d 位联系人</item>
+        <item quantity="one">1 位联系人</item>
+    </plurals>
+</resources>

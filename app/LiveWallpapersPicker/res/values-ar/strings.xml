@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="application_name">منتقي الخلفية المتحركة</string>
+  <string name="live_wallpaper_picker_title">خلفيات متحركة</string>
+  <string name="live_wallpaper_preview_title">معاينة الخلفية المتحركة</string>
+  <string name="configure_wallpaper">الإعدادات…</string>
+  <string name="wallpaper_instructions">تعيين خلفية</string>
+  <string name="live_wallpaper_empty">لا خلفيات متحركة.</string>
+  <string name="set_live_wallpaper">تعيين خلفية</string>
+  <string name="wallpaper_title_and_author">%1$s بواسطة %2$s</string>
+  <string name="live_wallpaper_loading">جارٍ تحميل الخلفية المتحركة...</string>
+</resources>

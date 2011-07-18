@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi data</item>
+        <item>All apps</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>SMS and MMS</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Contacts</item>
+        <item>Call log</item>
+        <item>Messages</item>
+        <item>System settings</item>
+        <item>Wi-Fi settings</item>
+        <item>Desktop layout</item>
+        <item>Alarm settings</item>
+        <item>Notes</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>(data)</item>
+        <item>(apps)</item>
+        <item>(data + apps)</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Contacts</item>
+        <item>Call log</item>
+        <item>Messages</item>
+        <item>Wi-Fi settings</item>
+        <item>Notes</item>
+    </string-array>
+</resources>

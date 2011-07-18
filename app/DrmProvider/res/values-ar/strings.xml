@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_label">تخزين المحتوى DRM المحمي</string>
+  <string name="permlab_accessDrm">الدخول إلى محتوى DRM</string>
+  <string name="permdesc_accessDrm">للسماح للتطبيقات بالدخول إلى محتوى DRM المحمي.</string>
+  <string name="permlab_installDrm">تثبيت محتوى DRM.</string>
+  <string name="permdesc_installDrm">للسماح للتطبيقات بتثبيت محتوى DRM المحمي.</string>
+</resources>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_label">إعدادات الحساب والمزامنة</string>
+  <string name="sync_settings">Accounts &amp; Sync Settings</string>
+  <string name="sync_too_many_deletes">تم تجاوز حد الحذف</string>
+  <string name="background_data">بيانات الخلفية</string>
+  <string name="background_data_summary">يمكن للتطبيقات مزامنة وإرسال وتلقي البيانات في أي وقت</string>
+  <string name="background_data_dialog_title">تنبيه</string>
+  <string name="background_data_dialog_message">يعمل تعطيل بيانات الخلفية على زيادة عمر البطارية وتقليل استخدام البيانات. ربما لا تزال بعض التطبيقات تستخدم اتصال بيانات الخلفية.</string>
+  <string name="sync_automatically">مزامنة تلقائية</string>
+  <string name="sync_automatically_summary">تعمل التطبيقات على مزامنة البيانات تلقائيًا</string>
+  <string name="settings_backup">الاحتفاظ بنسخة احتياطية من الإعدادات</string>
+  <string name="settings_backup_summary">الاحتفاظ بنسخة احتياطية لإعداداتي</string>
+  <string name="sync_menu_sync_now">مزامنة الآن</string>
+  <string name="sync_menu_sync_cancel">إلغاء المزامنة</string>
+  <string name="sync_one_time_sync">المس للمزامنة الآن\n%1$s</string>
+  <string name="sync_gmail">Gmail</string>
+  <string name="sync_calendar">التقويم</string>
+  <string name="sync_contacts">جهات الاتصال</string>
+  <string name="sync_too_many_deletes_desc">هناك %1$d من العناصر المحذوفة بالنسبة إلى %2$s، الحساب %3$s. ما الذي تريد القيام به؟</string>
+  <string name="sync_really_delete">حذف هذه العناصر.</string>
+  <string name="sync_undo_deletes">التراجع عن عمليات الحذف.</string>
+  <string name="sync_do_nothing">عدم القيام بأي شيء الآن.</string>
+  <string name="sync_is_failing">تواجه المزامنة بعض المشكلات في الوقت الحالي. ستعود إلى العمل بشكل طبيعي بعد قليل.</string>
+  <string name="sync_plug" />
+  <string name="header_application_sync_settings">إعدادات مزامنة التطبيق</string>
+  <string name="header_manage_accounts">إدارة الحسابات</string>
+  <string name="header_general_sync_settings">إعدادات المزامنة العامة</string>
+  <string name="sync_enabled">المزامنة قيد التشغيل</string>
+  <string name="sync_disabled">المزامنة متوقفة</string>
+  <string name="sync_error">خطأ في المزامنة</string>
+  <string name="add_account_label">إضافة حساب</string>
+  <string name="header_data_and_synchronization">البيانات والمزامنة</string>
+  <string name="preference_change_password_title">تغيير كلمة المرور</string>
+  <string name="header_account_settings">إعدادات الحساب</string>
+  <string name="remove_account_label">إزالة الحساب</string>
+  <string name="header_add_an_account">إضافة حساب</string>
+  <string name="finish_button_label">إنهاء</string>
+  <string name="really_remove_account_title">إزالة الحساب</string>
+  <string name="really_remove_account_message">هل تريد حقًا إزالة هذه الحساب؟ ستؤدي إزالته إلى حذف جميع ما به من رسائل وجهات اتصال وغير ذلك من البيانات من الهاتف. \nهل تريد المتابعة؟</string>
+  <string name="remove_account_failed">هذا الحساب مطلوب لبعض التطبيقات. ولا يمكنك إزالته إلا بعد إعادة تعيين الهاتف إلى القيم الافتراضية للمصنع (وهذا يؤدي إلى حذف جميع بياناتك الشخصية). يمكنك القيام بذلك في تطبيق \"الإعدادات\"، أسفل \"الخصوصية\".</string>
+  <string name="provider_label">اشتراكات يعرضها الناشر</string>
+  <string name="sync_item_title">مزامنة %s</string>
+  <string name="cant_sync_dialog_title">لا يمكن المزامنة يدويًا</string>
+  <string name="cant_sync_dialog_message">مزامنة هذا العنصر معطّلة في الوقت الحالي. لتغيير تفضيلاتك، شغّل بشكل مؤقت بيانات الخلفية والمزامنة التلقائية.</string>
+</resources>

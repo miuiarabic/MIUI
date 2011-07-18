@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_label">خدمات الشبكة الظاهرية الخاصة (VPN)</string>
+  <string name="vpn_notification_title_connected">تم توصيل الشبكة الظاهرية الخاصة (VPN) لـ %s</string>
+  <string name="vpn_notification_title_disconnected">تم فصل الشبكة الظاهرية الخاصة (VPN) لـ %s</string>
+  <string name="vpn_notification_hint_disconnected">يمكنك اللمس لإعادة الاتصال بالشبكة الظاهرية الخاصة (VPN).</string>
+</resources>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">أداة تثبيت الشهادة</string>
+  <string name="pick_file_title">اختيار شهادة</string>
+  <string name="pkcs12_password_dialog_title">استخراج من مخزن مفاتيح PKCS12</string>
+  <string name="extracting_pkcs12">جارٍ الاستخراج...</string>
+  <string name="pkcs12_file_password_dialog_title">استخراج من %s</string>
+  <string name="name_credential_dialog_title">اسم الشهادة</string>
+  <string name="credential_name">اسم الشهادة:</string>
+  <string name="credential_password">إدخال كلمة المرور لاستخراج الشهادات.</string>
+  <string name="credential_info">تحتوي الحزمة على:</string>
+  <string name="p12_description">الشهادات في مخزن مفاتيح PKCS12.</string>
+  <string name="one_userkey">مفتاح مستخدم واحد</string>
+  <string name="one_usercrt">شهادة مستخدم واحد</string>
+  <string name="one_cacrt">شهادة CA واحدة</string>
+  <string name="n_cacrts">%d شهادات CA</string>
+  <string name="password_error">الرجاء إدخال كلمة المرور الصحيحة.</string>
+  <string name="password_empty_error">الرجاء إدخال كلمة المرور.</string>
+  <string name="name_empty_error">الرجاء إدخال اسم.</string>
+  <string name="name_char_error">الرجاء إدخال اسم يحتوي على أحرف وأرقام فقط.</string>
+  <string name="storage_error">يتعذر حفظ الشهادة. انقر على \"موافق\" لإعادة المحاولة.</string>
+  <string name="unable_to_save_cert">يتعذر حفظ الشهادة. سعة تخزين الاعتماد غير ممكّنة أو مهيأة بشكل صحيح.</string>
+  <string name="cert_not_saved">الشهادة غير مثبتة.</string>
+  <string name="no_cert_to_saved">ليس هناك شهادات للتثبيت.</string>
+  <string name="intent_parse_error">تعذر تحليل الهدف: %s</string>
+  <string name="cert_is_added">%s مثبت.</string>
+  <string name="cert_too_large_error">أخفق التثبيت. حجم الشهادة كبير للغاية.</string>
+  <string name="cert_missing_error">أخفق التثبيت. لا يمكن تحديد موقع ملف الشهادة.</string>
+  <string name="cert_read_error">أخفق التثبيت. لا يمكن قراءة ملف الشهادة.</string>
+  <string name="no_cert_file_found">لم يتم العثور على ملف شهادة في وحدة تخزين USB.</string>
+  <string name="sdcard_not_present">وحدة تخزين USB غير متاحة.</string>
+</resources>

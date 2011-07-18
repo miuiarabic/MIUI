@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s 秒</item>
+        <item quantity="one">%s 秒</item>
+        <item quantity="few">%s 秒</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s 条符合“%2$s”的搜索结果</item>
+        <item quantity="one">%1$s 条符合“%2$s”的搜索结果</item>
+    </plurals>
+</resources>

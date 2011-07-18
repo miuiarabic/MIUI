@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="application_name">Launcher</string>
+  <string name="folder_name">Folder</string>
+  <string name="chooser_wallpaper">Select wallpaper from</string>
+  <string name="activity_not_found">Application is not installed on your phone.</string>
+  <string name="cancel_action">Cancel</string>
+  <string name="menu_item_add_item">Add to Home screen</string>
+  <string name="group_shortcuts">Shortcuts</string>
+  <string name="group_folder">New folder</string>
+  <string name="group_live_folders">Folders</string>
+  <string name="group_wallpapers">Wallpapers</string>
+  <string name="out_of_space">No more room on this Home screen.</string>
+  <string name="title_select_shortcut">Select shortcut</string>
+  <string name="title_select_live_folder">Select folder</string>
+  <string name="menu_add">Add</string>
+  <string name="menu_wallpaper">Wallpaper</string>
+  <string name="menu_search">Search</string>
+  <string name="menu_workspace_preview">Preview</string>
+  <string name="menu_back_desktop">Back to home screen</string>
+  <string name="menu_settings">Settings</string>
+  <string name="permlab_install_shortcut">install shortcuts</string>
+  <string name="permdesc_install_shortcut">Allows an application to add shortcuts without user intervention.</string>
+  <string name="permlab_uninstall_shortcut">uninstall shortcuts</string>
+  <string name="permdesc_uninstall_shortcut">Allows an application to remove shortcuts without user intervention.</string>
+  <string name="permlab_read_settings">read home settings and shortcuts</string>
+  <string name="permdesc_read_settings">Allows an application to read the settings and shortcuts in Home.</string>
+  <string name="permlab_write_settings">Write home settings and shortcuts</string>
+  <string name="permdesc_write_settings">Allows an application to change the settings and shortcuts in Home.</string>
+  <string name="gadget_error_text">Problem loading widget</string>
+</resources>
