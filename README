@@ -8,70 +8,70 @@ community help is needed to tranlate the remaining strings in 'strings.xml','arr
 -------------------------------
 
 -------------------------------
-(All|Translated|Remaining|FileName)
+( All | Translated | Remaining | FileName )
 -------------------------------
-(43|41|2)	\app\AccountAndSyncSettings\res\values-ar\strings.xml
-(4|4|0)	        \app\ApplicationsProvider\res\values-ar\strings.xml
-(65|0|65)	\app\AppShare\res\values-ar\strings.xml
-(155|0|155)	\app\Backup\res\values-ar\strings.xml
-(119|118|1)	\app\Bluetooth\res\values-ar\strings.xml
-(244|243|1)	\app\Browser\res\values-ar\strings.xml
-(25|25|0)	\app\Calculator\res\values-ar\strings.xml
-(111|111|0)	\app\Calendar\res\values-ar\strings.xml
-(11|11|0)	\app\CalendarProvider\res\values-ar\strings.xml
-(29|29|0)	\app\CertInstaller\res\values-ar\strings.xml
-(25|0|25)	\app\CloudService\res\values-ar\strings.xml
-(308|262|46)	\app\Contacts\res\values-ar\strings.xml
-(5|5|0)	        \app\ContactsProvider\res\values-ar\strings.xml
-(1|1|0)	        \app\DefaultContainerService\res\values-ar\strings.xml
-(56|55|1)	\app\DeskClock\res\values-ar\strings.xml
-(28|28|0)	\app\DownloadProvider\res\values-ar\strings.xml
-(27|26|1)	\app\DownloadProviderUi\res\values-ar\strings.xml
-(5|5|0)	        \app\DrmProvider\res\values-ar\strings.xml
-(236|236|0)	\app\Email\res\values-ar\strings.xml
-(83|0|83)	\app\FileExplorer\res\values-ar\strings.xml
-(153|0|153)	\app\Gallery\res\values-ar\strings.xml
-(241|0|241)	\app\Gmail\res\values-ar\strings.xml
-(1|0|1)	        \app\GoogleCalendarSyncAdapter\res\values-ar\strings.xml
-(1|0|1)	\app\GoogleContactsSyncAdapter\res\values-ar\strings.xml
-(1|0|1)	\app\GooglePartnerSetup\res\values-ar\strings.xml
-(390|0|390)	\app\GoogleServicesFramework\res\values-ar\strings.xml
-(3|3|0)	\app\HTMLViewer\res\values-ar\strings.xml
-(102|0|102)	\app\LatinIME\res\values-ar\strings.xml
-(28|0|28)	\app\Launcher2\res\values-ar\strings.xml
-(9|9|0)	 \app\LiveWallpapersPicker\res\values-ar\strings.xml
-(3|0|3)	\app\MarketUpdater\res\values-ar\strings.xml
-(3|3|0)	\app\MediaProvider\res\values-ar\strings.xml
-(77|0|77)	\app\MediaUploader\res\values-ar\strings.xml
-(322|0|322)	\app\MiuiAndroid\res\values-ar\strings.xml
-(124|0|124)	\app\MiuiCamera\res\values-ar\strings.xml
-(273|0|273)	\app\MiuiMusic\res\values-ar\strings.xml
-(248|217|31)	\app\Mms\res\values-ar\strings.xml
-(177|0|177)	\app\Monitor\res\values-ar\strings.xml
-(5|0|5)	\app\NetworkLocation\res\values-ar\strings.xml
-(4|0|4)	\app\Nfc\res\values-ar\strings.xml
-(99|0|99)	\app\Notes\res\values-ar\strings.xml
-(35|35|0)	\app\PackageInstaller\res\values-ar\strings.xml
-(459|443|16)	\app\Phone\res\values-ar\strings.xml
-(2|0|2)	\app\PicoTts\res\values-ar\strings.xml
-(2|0|2)	\app\Protips\res\values-ar\strings.xml
-(1046|751|295)	\app\Settings\res\values-ar\strings.xml
-(1|1|0)	\app\SettingsProvider\res\values-ar\strings.xml
-(31|0|31)	\app\SideKick\res\values-ar\strings.xml
-(31|0|31)	\app\SimpleLiveWallpaper\res\values-ar\strings.xml
-(27|11|16)	\app\SoundRecorder\res\values-ar\strings.xml
-(16|16|0)	\app\Stk\res\values-ar\strings.xml
-(30|0|30)	\app\Superuser\res\values-ar\strings.xml
-(16|10|6)	\app\SystemUI\res\values-ar\strings.xml
-(60|60|0)	\app\Tag\res\values-ar\strings.xml
-(251|0|251)	\app\Talk\res\values-ar\strings.xml
-(1|0|1)	\app\TelephonyProvider\res\values-ar\strings.xml
-(1|0|1)	\app\TelocationProvider\res\values-ar\strings.xml
-(88|0|88)	\app\ThemeManager\res\values-ar\strings.xml
-(4|0|4)	\app\Torch\res\values-ar\strings.xml
-(75|0|75)	\app\Updater\res\values-ar\strings.xml
-(1|0|1)	\app\UserDictionaryProvider\res\values-ar\strings.xml
-(459|0|459)	\app\Vending\res\values-ar\strings.xml
-(22|22|0)	\app\VoiceDialer\res\values-ar\strings.xml
-(4|4|0)	\app\VpnServices\res\values-ar\strings.xml
-(889|855|34)	\framework\framework-res\res\values-ar\strings.xml
+(   43 |  41 |   2 ) \app\AccountAndSyncSettings\res\values-ar\strings.xml
+(    4 |   4 |   0 ) \app\ApplicationsProvider\res\values-ar\strings.xml
+(   65 |   0 |  65 ) \app\AppShare\res\values-ar\strings.xml
+(  155 |   0 | 155 ) \app\Backup\res\values-ar\strings.xml
+(  119 | 118 |   1 ) \app\Bluetooth\res\values-ar\strings.xml
+(  244 | 243 |   1 ) \app\Browser\res\values-ar\strings.xml
+(   25 |  25 |   0 ) \app\Calculator\res\values-ar\strings.xml
+(  111 | 111 |   0 ) \app\Calendar\res\values-ar\strings.xml
+(   11 |  11 |   0 ) \app\CalendarProvider\res\values-ar\strings.xml
+(   29 |  29 |   0 ) \app\CertInstaller\res\values-ar\strings.xml
+(   25 |   0 |  25 ) \app\CloudService\res\values-ar\strings.xml
+(  308 | 262 |  46 ) \app\Contacts\res\values-ar\strings.xml
+(    5 |   5 |   0 ) \app\ContactsProvider\res\values-ar\strings.xml
+(    1 |   1 |   0 ) \app\DefaultContainerService\res\values-ar\strings.xml
+(   56 |  55 |   1 ) \app\DeskClock\res\values-ar\strings.xml
+(   28 |  28 |   0 ) \app\DownloadProvider\res\values-ar\strings.xml
+(   27 |  26 |   1 ) \app\DownloadProviderUi\res\values-ar\strings.xml
+(    5 |   5 |   0 ) \app\DrmProvider\res\values-ar\strings.xml
+(  236 | 236 |   0 ) \app\Email\res\values-ar\strings.xml
+(   83 |   0 |  83 ) \app\FileExplorer\res\values-ar\strings.xml
+(  153 |   0 | 153 ) \app\Gallery\res\values-ar\strings.xml
+(  241 |   0 | 241 ) \app\Gmail\res\values-ar\strings.xml
+(    1 |   0 |   1 ) \app\GoogleCalendarSyncAdapter\res\values-ar\strings.xml
+(    1 |   0 |   1 ) \app\GoogleContactsSyncAdapter\res\values-ar\strings.xml
+(    1 |   0 |   1 ) \app\GooglePartnerSetup\res\values-ar\strings.xml
+(  390 |   0 | 390 ) \app\GoogleServicesFramework\res\values-ar\strings.xml
+(    3 |   3 |   0 ) \app\HTMLViewer\res\values-ar\strings.xml
+(  102 |   0 | 102 ) \app\LatinIME\res\values-ar\strings.xml
+(   28 |   0 |  28 ) \app\Launcher2\res\values-ar\strings.xml
+(    9 |   9 |   0 ) \app\LiveWallpapersPicker\res\values-ar\strings.xml
+(    3 |   0 |   3 ) \app\MarketUpdater\res\values-ar\strings.xml
+(    3 |   3 |   0 ) \app\MediaProvider\res\values-ar\strings.xml
+(   77 |   0 |  77 ) \app\MediaUploader\res\values-ar\strings.xml
+(  322 |   0 | 322 ) \app\MiuiAndroid\res\values-ar\strings.xml
+(  124 |   0 | 124 ) \app\MiuiCamera\res\values-ar\strings.xml
+(  273 |   0 | 273 ) \app\MiuiMusic\res\values-ar\strings.xml
+(  248 | 217 |  31 ) \app\Mms\res\values-ar\strings.xml
+(  177 |   0 | 177 ) \app\Monitor\res\values-ar\strings.xml
+(    5 |   0 |   5 ) \app\NetworkLocation\res\values-ar\strings.xml
+(    4 |   0 |   4 ) \app\Nfc\res\values-ar\strings.xml
+(   99 |   0 |  99 ) \app\Notes\res\values-ar\strings.xml
+(   35 |  35 |   0 ) \app\PackageInstaller\res\values-ar\strings.xml
+(  459 | 443 |  16 ) \app\Phone\res\values-ar\strings.xml
+(    2 |   0 |   2 ) \app\PicoTts\res\values-ar\strings.xml
+(    2 |   0 |   2 ) \app\Protips\res\values-ar\strings.xml
+( 1046 | 751 | 295 ) \app\Settings\res\values-ar\strings.xml
+(    1 |   1 |   0 ) \app\SettingsProvider\res\values-ar\strings.xml
+(   31 |   0 |  31 ) \app\SideKick\res\values-ar\strings.xml
+(   31 |   0 |  31 ) \app\SimpleLiveWallpaper\res\values-ar\strings.xml
+(   27 |  11 |  16 ) \app\SoundRecorder\res\values-ar\strings.xml
+(   16 |  16 |   0 ) \app\Stk\res\values-ar\strings.xml
+(   30 |   0 |  30 ) \app\Superuser\res\values-ar\strings.xml
+(   16 |  10 |   6 ) \app\SystemUI\res\values-ar\strings.xml
+(   60 |  60 |   0 ) \app\Tag\res\values-ar\strings.xml
+(  251 |   0 | 251 ) \app\Talk\res\values-ar\strings.xml
+(    1 |   0 |   1 ) \app\TelephonyProvider\res\values-ar\strings.xml
+(    1 |   0 |   1 ) \app\TelocationProvider\res\values-ar\strings.xml
+(   88 |   0 |  88 ) \app\ThemeManager\res\values-ar\strings.xml
+(    4 |   0 |   4 ) \app\Torch\res\values-ar\strings.xml
+(   75 |   0 |  75 ) \app\Updater\res\values-ar\strings.xml
+(    1 |   0 |   1 ) \app\UserDictionaryProvider\res\values-ar\strings.xml
+(  459 |   0 | 459 ) \app\Vending\res\values-ar\strings.xml
+(   22 |  22 |   0 ) \app\VoiceDialer\res\values-ar\strings.xml
+(    4 |   4 |   0 ) \app\VpnServices\res\values-ar\strings.xml
+(  889 | 855 |  34 ) \framework\framework-res\res\values-ar\strings.xml
