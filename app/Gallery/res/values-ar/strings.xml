@@ -30,7 +30,7 @@
   <string name="video_property">خصائص الفيديو</string>
   <string name="sort">الترتيب حسب</string>
   <string name="sort_by_name">(بالاسم (أ - ي</string>
-  <string name="sort_by_name_reverse"(بالاسم (ي - أ)</string>
+  <string name="sort_by_name_reverse">(بالاسم (ي - أ)</string>
   <string name="sort_by_update_time">تاريخ تصاعدي</string>
   <string name="sort_by_update_time_reverse">تاريخ تنازلي</string>
   <string name="sort_by_size">حجم تصاعدي</string>
