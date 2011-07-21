@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="app_label">Network Location</string>
-  <string name="location_warning_title">Location consent</string>
-  <string name="location_warning_message">Allow Google\'s location service to collect anonymous location data. Collection will occur even when no applications are running.</string>
-  <string name="agree">Agree</string>
-  <string name="disagree">Disagree</string>
+  <string name="app_label">موقع شبكة الاتصال</string>
+  <string name="location_warning_title">الموقع الموافقة</string>
+  <string name="location_warning_message">تسمح خدمة موقع قوقل لجمع بيانات الموقع المجهول. والجمع يحدث حتى عندما لا يتم تشغيل التطبيقات.</string>
+  <string name="agree">موافق</string>
+  <string name="disagree">غير موافق</string>
 </resources>
