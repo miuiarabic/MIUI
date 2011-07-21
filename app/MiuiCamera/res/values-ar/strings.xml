@@ -40,7 +40,7 @@
   <string name="pref_camera_jpegquality">جودة الصورة</string>
   <string name="pref_camera_jpegquality_superfine">Super fine</string>
   <string name="pref_camera_jpegquality_fine">Fine</string>
-  <string name="pref_camera_jpegquality_normal">عادي</string>
+  <string name="pref_camera_jpegquality_normal">طبيعي</string>
   <string name="pref_camera_on_off_setting">تشغيل \ إيقاف الإعدادات</string>
   <string name="pref_camera_recordlocation">حفظ الموقع</string>
   <string name="pref_camera_recordlocation_on">تشغيل</string>
