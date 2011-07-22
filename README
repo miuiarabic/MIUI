@@ -9,6 +9,7 @@ community help is needed to tranlate the remaining strings in 'strings.xml','arr
 ***
 ***All Translated file will be removed from README File
 ***
+progress in 'strings.xml'
 -------------------------------
 ( All | Translated | Remaining | FileName )
 -------------------------------
@@ -30,7 +31,6 @@ community help is needed to tranlate the remaining strings in 'strings.xml','arr
 (  248 | 217 |  31 ) \app\Mms\res\values-ar\strings.xml
 (  177 |   0 | 177 ) \app\Monitor\res\values-ar\strings.xml
 (    4 |   0 |   4 ) \app\Nfc\res\values-ar\strings.xml
-(   99 |   0 |  99 ) \app\Notes\res\values-ar\strings.xml
 (  459 | 443 |  16 ) \app\Phone\res\values-ar\strings.xml
 ( 1046 | 751 | 295 ) \app\Settings\res\values-ar\strings.xml
 (   31 |   0 |  31 ) \app\SideKick\res\values-ar\strings.xml
@@ -46,3 +46,47 @@ community help is needed to tranlate the remaining strings in 'strings.xml','arr
 (  459 |   0 | 459 ) \app\Vending\res\values-ar\strings.xml
 (  889 | 855 |  34 ) \framework\framework-res\res\values-ar\strings.xml
 ----------------------
+
+other file need to be translated
+------------------------------
+\app\Backup\res\values-ar\arrays.xml
+\app\Browser\res\values-ar\arrays.xml
+\app\Browser\res\values-ar\plurals.xml
+\app\Calendar\res\values-ar\plurals.xml
+\app\CalendarProvider\res\values-ar\plurals.xml
+\app\Contacts\res\values-ar\arrays.xml
+\app\Contacts\res\values-ar\plurals.xml
+\app\ContactsProvider\res\values-ar\arrays.xml
+\app\DeskClock\res\values-ar\arrays.xml
+\app\DownloadProviderUi\res\values-ar\arrays.xml
+\app\Email\res\values-ar\arrays.xml
+\app\Email\res\values-ar\plurals.xml
+\app\Gallery\res\values-ar\arrays.xml
+\app\Gmail\res\values-ar\arrays.xml
+\app\Gmail\res\values-ar\plurals.xml
+\app\GoogleServicesFramework\res\values-ar\arrays.xml
+\app\GoogleServicesFramework\res\values-ar\plurals.xml
+\app\LatinIME\res\values-ar\arrays.xml
+\app\Launcher2\res\values-ar\arrays.xml
+\app\MiuiAndroid\res\values-ar\arrays.xml
+\app\MiuiCamera\res\values-ar\arrays.xml
+\app\MiuiMusic\res\values-ar\arrays.xml
+\app\MiuiMusic\res\values-ar\plurals.xml
+\app\Mms\res\values-ar\arrays.xml
+\app\Mms\res\values-ar\plurals.xml
+\app\Monitor\res\values-ar\arrays.xml
+\app\Notes\res\values-ar\arrays.xml
+\app\Notes\res\values-ar\plurals.xml
+\app\Phone\res\values-ar\arrays.xml
+\app\Phone\res\values-ar\plurals.xml
+\app\Protips\res\values-ar\arrays.xml
+\app\Settings\res\values-ar\arrays.xml
+\app\SimpleLiveWallpaper\res\values-ar\arrays.xml
+\app\SoundRecorder\res\values-ar\arrays.xml
+\app\Superuser\res\values-ar\arrays.xml
+\app\Talk\res\values-ar\arrays.xml
+\app\Talk\res\values-ar\plurals.xml
+\app\Vending\res\values-ar\plurals.xml
+\framework\framework-res\res\values-ar\arrays.xml
+\framework\framework-res\res\values-ar\plurals.xml
+---------------------------------------------------
