@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="app_label">إعدادات الحساب والمزامنة</string>
-  <string name="sync_settings">Accounts &amp; Sync Settings</string>
+  <string name="sync_settings">حسابات وإعدادات المزامنة</string>
   <string name="sync_too_many_deletes">تم تجاوز حد الحذف</string>
   <string name="background_data">بيانات الخلفية</string>
   <string name="background_data_summary">يمكن للتطبيقات مزامنة وإرسال وتلقي البيانات في أي وقت</string>
