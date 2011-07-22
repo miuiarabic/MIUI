@@ -41,8 +41,6 @@ progress in 'strings.xml'
 (    1 |   0 |   1 ) \app\TelephonyProvider\res\values-ar\strings.xml
 (    1 |   0 |   1 ) \app\TelocationProvider\res\values-ar\strings.xml
 (   88 |   0 |  88 ) \app\ThemeManager\res\values-ar\strings.xml
-(    4 |   0 |   4 ) \app\Torch\res\values-ar\strings.xml
-(   75 |   0 |  75 ) \app\Updater\res\values-ar\strings.xml
 (  459 |   0 | 459 ) \app\Vending\res\values-ar\strings.xml
 (  889 | 855 |  34 ) \framework\framework-res\res\values-ar\strings.xml
 ----------------------
