@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="pick_photo_values">
-        <item>Take photo</item>
-        <item>From album</item>
-        <item>Pick Avatar</item>
-        <item>Restore Default</item>
+        <item>التقاط صورة</item>
+        <item>من الألبوم</item>
+        <item>صورة رمزية</item>
+        <item>استعادة الافتراضي</item>
     </string-array>
     <string-array name="pick_incoming_call_photo_values">
-        <item>Take photo</item>
-        <item>From album</item>
+        <item>التقاط صورة</item>
+        <item>من الألبوم</item>
     </string-array>
     <string-array name="edit_incoming_call_photo_values">
-        <item>Take photo</item>
-        <item>From album</item>
-        <item>Edit picture size</item>
-        <item>Delete</item>
+        <item>التقاط صورة</item>
+        <item>من الألبوم</item>
+        <item>تعديل حجم الصورة</item>
+        <item>حذف</item>
     </string-array>
     <array name="callrecordview_menu_show_values">
         <item>@string/callrecordview_menu_show_all</item>
