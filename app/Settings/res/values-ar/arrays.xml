@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="timezone_filters">
-        <item>美洲</item>
-        <item>欧洲</item>
-        <item>非洲</item>
-        <item>亚洲</item>
-        <item>澳大利亚</item>
-        <item>太平洋</item>
-        <item>全部</item>
+        <item>أمريكا</item>
+        <item>أوروبا</item>
+        <item>أفريقيا</item>
+        <item>آسيا</item>
+        <item>أستراليا</item>
+        <item>المحيط الهادي</item>
+        <item>الجميع</item>
     </string-array>
     <string-array name="animations_entries">
-        <item>无</item>
-        <item>部分</item>
-        <item>全部</item>
+        <item>لا</item>
+        <item>البعض</item>
+        <item>الكل</item>
     </string-array>
     <string-array name="animations_summaries">
-        <item>不显示窗口动画</item>
-        <item>显示部分窗口动画</item>
-        <item>显示所有窗口动画</item>
+        <item>لا تعرض الرسوم المتحركة</item>
+        <item>عرض  جزء من الرسوم المتحركة</item>
+        <item>عرض كل الرسوم المتحركة</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>30秒</item>
-        <item>1分</item>
-        <item>5分</item>
-        <item>10分</item>
-        <item>永不</item>
+        <item>30 ثانية</item>
+        <item>دقيقة</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>أبدا</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>很慢</item>
-        <item>慢</item>
-        <item>正常</item>
-        <item>快</item>
-        <item>很快</item>
+        <item>بطيئ جدا</item>
+        <item>بطيء</item>
+        <item>عادي</item>
+        <item>سريع</item>
+        <item>سريع جداً</item>
     </string-array>
     <string-array name="tts_pitch_entries">
-        <item>很低</item>
-        <item>低</item>
-        <item>正常</item>
-        <item>高</item>
-        <item>很高</item>
+        <item>منخفض</item>
+        <item>منخفض</item>
+        <item>عادي</item>
+        <item>عالي</item>
+        <item>عالي</item>
     </string-array>
     <string-array name="tts_lang_entries">
-        <item>美国英语</item>
-        <item>英国英语</item>
-        <item>法语</item>
-        <item>德语</item>
-        <item>意大利语</item>
-        <item>西班牙语</item>
+        <item>الإنجليزية</item>
+        <item>الانجليزية البريطانية</item>
+        <item>الفرنسية</item>
+        <item>الألمانية</item>
+        <item>الإيطالية</item>
+        <item>الإسبانية</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>正在扫描...</item>
-        <item>正在连接...</item>
-        <item>正在进行身份验证...</item>
-        <item>正在获取 IP 地址...</item>
-        <item>已连接</item>
-        <item>已暂停</item>
-        <item>正在断开连接...</item>
-        <item>已断开连接</item>
-        <item>失败</item>
+        <item>مسح...</item>
+        <item>توصيل...</item>
+        <item>المصادقة في تقدم...</item>
+        <item>الحصول على عنوان IP...</item>
+        <item>متصل</item>
+        <item>مؤقتا</item>
+        <item>قطع الاتصال...</item>
+        <item>قطع</item>
+        <item>فشل</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>正在扫描...</item>
-        <item>正在连接到 %1$s...</item>
-        <item>正在通过 %1$s 进行身份验证...</item>
-        <item>正在从 %1$s 获取 IP 地址...</item>
-        <item>已连接到 %1$s</item>
-        <item>已暂停</item>
-        <item>正在断开与 %1$s 的连接...</item>
-        <item>已断开连接</item>
-        <item>失败</item>
+        <item>المسح...</item>
+        <item>... %1$s الاتصال بـ </item>
+        <item>... %1$s مصادقة الاتصال من </item>
+        <item>%1$s من IP الحصول على</item>
+        <item> %1$s متصل</item>
+        <item>مؤقتا</item>
+        <item>%1$s قطع الاتصال من </item>
+        <item>قطع</item>
+        <item>فشل</item>
     </string-array>
     <string-array name="wifi_security">
-        <item>开放</item>
+        <item>مفتوحة</item>
         <item>WEP</item>
         <item>WPA/WPA2 PSK</item>
         <item>802.1x EAP</item>
@@ -86,33 +86,33 @@
         <item>TTLS</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item>弱</item>
-        <item>一般</item>
-        <item>较强</item>
-        <item>强</item>
+        <item>ضعيفة</item>
+        <item>متوسطة</item>
+        <item>قوية</item>
+        <item>عالية</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>屏幕关闭时休眠</item>
-        <item>充电时永不休眠</item>
-        <item>永不休眠</item>
+        <item>عند توقف الشاشة</item>
+        <item>أثناء الشحن</item>
+        <item>أبداً</item>
     </string-array>
     <string-array name="battery_history_type_spinner">
-        <item>CPU 使用率</item>
-        <item>网络使用率</item>
-        <item>GPS 使用率</item>
-        <item>传感器使用情况</item>
-        <item>部分唤醒使用情况</item>
-        <item>其他使用情况</item>
+        <item>استخدام وحدة المعالجة المركزية</item>
+        <item>استخدام الشبكة</item>
+        <item>استخدام GPS</item>
+        <item>استخدام أجهزة الاستشعار</item>
+        <item>استخدام الاستيقاظ</item>
+        <item>الاستخدامات الأخرى</item>
     </string-array>
     <string-array name="battery_history_which_spinner">
-        <item>自上次拔下电源后的时间</item>
-        <item>自启动以来的总时间</item>
-        <item>所有时间总计</item>
+        <item>آخر مرة منذ توصيل التيار الكهربائي</item>
+        <item>بداية الوقت الإجمالي</item>
+        <item>كل الوقت الاجمالي</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
-        <item>使用时间</item>
-        <item>启动次数</item>
-        <item>应用程序名称</item>
+        <item>الوقت المستخدم</item>
+        <item>بدء</item>
+        <item>اسم التطبيق</item>
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -120,44 +120,44 @@
         <item>TTLS</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>无</item>
+        <item>لا</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>关</item>
-        <item>警报</item>
-        <item>振动</item>
+        <item>أغلق</item>
+        <item>تنبيه</item>
+        <item>اهتزاز</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>无</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP 或 CHAP</item>
+        <item>PAP أو CHAP</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>设备内部存储</item>
+        <item>وحدات التخزين الداخلية</item>
         <item>可卸载的 SD 卡</item>
-        <item>由系统确定</item>
+        <item>يحددها النظام</item>
     </string-array>
     <string-array name="vibrate_entries">
-        <item>始终</item>
-        <item>一律不</item>
-        <item>仅在静音模式下来电振动</item>
-        <item>仅在非静音模式下来电振动</item>
+        <item>دائما</item>
+        <item>أبدا</item>
+        <item>المكالمات فقط ,اهتزاز في الوضع الصامت</item>
+        <item>المكالمات فقط , في اهتزاز الوضع غير صامت</item>
     </string-array>
     <string-array name="entries_light_filter_window">
-        <item>10 秒</item>
-        <item>20 秒</item>
-        <item>30 秒</item>
-        <item>40 秒</item>
-        <item>50 秒</item>
-        <item>60 秒</item>
+        <item>10 ثانية</item>
+        <item>20 ثانية</item>
+        <item>30 ثانية</item>
+        <item>40 ثانية</item>
+        <item>50 ثانية</item>
+        <item>60 ثانية</item>
     </string-array>
     <string-array name="entries_light_filter_reset">
-        <item>禁用</item>
+        <item>تعطيل</item>
         <item>400 lux</item>
         <item>500 lux</item>
         <item>600 lux</item>
@@ -170,11 +170,11 @@
         <item>2500 lux</item>
     </string-array>
     <string-array name="entries_light_filter_interval">
-        <item>0.5 秒</item>
-        <item>1 秒</item>
-        <item>2 秒</item>
-        <item>5 秒</item>
-        <item>10 秒</item>
+        <item>0.5 ثانية</item>
+        <item>ثانية</item>
+        <item>ثانيتان</item>
+        <item>5 ثواني</item>
+        <item>10 ثواني</item>
     </string-array>
     <string-array name="entries_light_levels_dim">
         <item>1</item>
@@ -189,7 +189,7 @@
         <item>14</item>
         <item>16</item>
         <item>18</item>
-        <item>20 (默认)</item>
+        <item>20 (الافتراضي)</item>
         <item>22</item>
         <item>24</item>
         <item>26</item>
