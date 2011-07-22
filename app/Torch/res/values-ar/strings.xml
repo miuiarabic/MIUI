@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="app_name">Torch</string>
-  <string name="not_torch_title">Torch on</string>
-  <string name="widget_label">Torch</string>
-  <string name="torch_message">Hold [icon] on lockscreen to use torch</string>
+  <string name="app_name">المصباح</string>
+  <string name="not_torch_title">تشغيل المصباح</string>
+  <string name="widget_label">المصباح</string>
+  <string name="torch_message">اضغط على [الأيقونة]الموجودة في شاشة القفل لاستخدام المصباح</string>
 </resources>
