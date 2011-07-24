@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d 分钟</item>
-        <item quantity="one">1 分钟</item>
+        <item quantity="other">%d دقائق</item>
+        <item quantity="one">دقيقة</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">%d 分钟</item>
-        <item quantity="one">1 分钟</item>
+        <item quantity="other">%d دقائق</item>
+        <item quantity="one">دقيقة</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d 小时</item>
-        <item quantity="one">1 小时</item>
+        <item quantity="other">%d ساعات</item>
+        <item quantity="one">ساعة</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d 天</item>
-        <item quantity="one">1 天</item>
+        <item quantity="other">%d أيام</item>
+        <item quantity="one">يوم</item>
     </plurals>
 </resources>
