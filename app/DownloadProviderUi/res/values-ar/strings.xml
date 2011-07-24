@@ -3,7 +3,7 @@
   <string name="app_label">التنزيلات</string>
   <string name="download_title">التنزيلات</string>
   <string name="no_downloads">ليس هناك أي تنزيلات</string>
-  <string name="missing_title">Unknown</string>
+  <string name="missing_title">غير معروف</string>
   <string name="download_menu_sort_by_size">التصنيف بحسب الحجم</string>
   <string name="download_menu_sort_by_date">تصنيف بحسب الوقت</string>
   <string name="download_queued">في الانتظار</string>
