@@ -40,9 +40,9 @@
         <item>@string/account_settings_vibrate_when_never</item>
     </array>
     <string-array name="account_settings_vibrate_when_values">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>دائماً</item>
+        <item>صامت</item>
+        <item>ابداً</item>
     </string-array>
     <array name="account_settings_check_frequency_entries_push">
         <item>@string/account_setup_options_mail_check_frequency_5min</item>
