@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="installed">تثبيت</string>
-  <string name="not_installed">لم يتم تثبيت</string>
+  <string name="not_installed">لم يتم التثبيت</string>
 </resources>

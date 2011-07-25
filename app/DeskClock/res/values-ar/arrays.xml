@@ -11,12 +11,12 @@
         <item>已将该闹钟设置为从现在起 %1$s %2$s %3$s后再提醒。</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>5 分钟</item>
-        <item>10 分钟</item>
-        <item>15 分钟</item>
-        <item>20 分钟</item>
-        <item>25 分钟</item>
-        <item>30 分钟</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقائق</item>
+        <item>20 دقائق</item>
+        <item>25 دقائق</item>
+        <item>30 دقائق</item>
     </string-array>
     <string-array name="snooze_duration_values">
         <item>5</item>
@@ -27,9 +27,9 @@
         <item>30</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>无</item>
-        <item>暂停</item>
-        <item>关闭</item>
+        <item>لا</item>
+        <item>ايقاف</item>
+        <item>إغلاق</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>

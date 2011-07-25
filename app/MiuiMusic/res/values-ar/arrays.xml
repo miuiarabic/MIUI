@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="equalizer_presents">
-        <item>Normal</item>
-        <item>Classical</item>
-        <item>Dance</item>
-        <item>Easy listening</item>
-        <item>Heavy metal</item>
-        <item>Hip hop</item>
-        <item>Jazz</item>
-        <item>Pop</item>
-        <item>Rock</item>
+        <item>عادي</item>
+        <item>كلاسيكي</item>
+        <item>رقص</item>
+        <item>سهل الاستماع</item>
+        <item>الهيفي ميتال</item>
+        <item>موسيقى هيب هوب</item>
+        <item>موسيقى الجاز</item>
+        <item>موسيقى صاخبة</item>
+        <item>رقصة الروك</item>
     </string-array>
 </resources>

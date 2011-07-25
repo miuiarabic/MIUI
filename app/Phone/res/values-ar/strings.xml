@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="contactsIconLabel">جهات الاتصال</string>
-  <string name="dialerIconLabel">Dialer</string>
+  <string name="dialerIconLabel">طالب الهاتف</string>
   <string name="emergencyDialerIconLabel">طالب الطوارئ</string>
   <string name="phoneIconLabel">الهاتف</string>
   <string name="fdnListLabel">قائمة FDN</string>
@@ -46,11 +46,11 @@
   <string name="no_vm_number">رقم البريد الصوتي مفقود</string>
   <string name="no_vm_number_msg">لم يتم تخزين رقم بريد صوتي على بطاقة SIM.</string>
   <string name="add_vm_number_str">إضافة رقم</string>
-  <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking...</string>
+  <string name="puk_unlocked"تم إلغاء حظر بطاقة SIM. إلغاء تأمين الهاتف...</string>
   <string name="label_ndp">رقم التعريف الشخصي لإلغاء تأمين شبكة SIM</string>
   <string name="sim_ndp_unlock_text">إلغاء تأمين</string>
   <string name="sim_ndp_dismiss_text">استبعاد</string>
-  <string name="requesting_unlock">Requesting network unlock...</string>
+  <string name="requesting_unlock">طلب فتح الشبكة...</string>
   <string name="unlock_failed">لم ينجح طلب إلغاء تأمين الشبكة.</string>
   <string name="unlock_success">نجح إلغاء تأمين الشبكة.</string>
   <string name="imei">IMEI</string>
@@ -61,7 +61,7 @@
   <string name="voicemail">البريد الصوتي</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="networks">مشغلو الشبكة</string>
-  <string name="call_settings">Call Settings</string>
+  <string name="call_settings">ضبط المكالمات</string>
   <string name="additional_cdma_call_settings">إعدادات اتصال CDMA الإضافية</string>
   <string name="sum_cdma_call_settings">إعدادات اتصال CDMA الإضافية فقط</string>
   <string name="labelCallerId">معرف المتصل</string>
@@ -92,7 +92,7 @@
   <string name="disable_cfnrc_forbidden">لا يتيح مشغل شبكة الجوال تعطيل إعادة توجيه الاتصال عند عدم التمكن من الوصول إلى هاتفك.</string>
   <string name="updating_title">إعدادات الاتصال</string>
   <string name="error_updating_title">خطأ في إعدادات الاتصال</string>
-  <string name="reading_settings">Reading settings...</string>
+  <string name="reading_settings">قراءة الإعدادات...</string>
   <string name="updating_settings">جارٍ تحديث الإعدادات...</string>
   <string name="reverting_settings">جارٍ إعادة الإعدادات...</string>
   <string name="response_error">رد غير متوقع من الشبكة.</string>
@@ -110,13 +110,13 @@
   <string name="no_change">لم يتم إجراء أية تغييرات.</string>
   <string name="sum_voicemail_choose_provider">اختيار خدمة البريد الصوتي</string>
   <string name="voicemail_default">مشغل شبكة الجوال</string>
-  <string name="mobile_networks">Mobile Network Settings</string>
+  <string name="mobile_networks">إعدادات شبكات الجوال</string>
   <string name="label_available">الشبكات المتاحة</string>
-  <string name="load_networks_progress">Searching...</string>
+  <string name="load_networks_progress">بحث...</string>
   <string name="empty_networks_list">لم يتم العثور على شبكات.</string>
   <string name="search_networks">بحث في الشبكات</string>
   <string name="network_query_error">حدث خطأ أثناء البحث عن شبكات.</string>
-  <string name="register_on_network">Registering on %s...</string>
+  <string name="register_on_network">التسجيل في %s...</string>
   <string name="not_allowed">لا تسمح بطاقة SIM بالاتصال بهذه الشبكة.</string>
   <string name="connect_later">يتعذر الاتصال بهذه الشبكة حاليًا. الرجاء المحاولة مرة أخرى لاحقًا.</string>
   <string name="registration_done">مسجل على الشبكة.</string>
@@ -129,7 +129,7 @@
   <string name="preferred_network_mode_dialogtitle">وضع الشبكة المفضل</string>
   <string name="data_enabled">تم تمكين البيانات</string>
   <string name="data_enable_summary">تمكين الدخول إلى البيانات عبر شبكة الجوال</string>
-  <string name="roaming">Data roaming</string>
+  <string name="roaming">بيانات التجوال</string>
   <string name="roaming_enable">اتصال بخدمات البيانات عند التجوال</string>
   <string name="roaming_disable">اتصال بخدمات البيانات عند التجوال</string>
   <string name="roaming_reenable_message">لقد فقدت اتصال البيانات نظرًا لأنك أوقفت تشغيل تجوال البيانات بشبكتك الرئيسية.</string>
@@ -385,9 +385,9 @@
   <string name="voicemail_provider">خدمة البريد الصوتي</string>
   <string name="voicemail_settings_for">إعدادات \"%s\"</string>
   <string name="other_settings">إعدادات الاتصال الأخرى</string>
-  <string name="calling_via_template">Calling via ^1\n</string>
-  <string name="goPrivate">Go private</string>
-  <string name="selectContact">Select contact</string>
+  <string name="calling_via_template">الدعوة عبر ^1\n</string>
+  <string name="goPrivate">انتقل للخاص</string>
+  <string name="selectContact">حدد الاتصال</string>
   <string name="sip_settings">إعدادات الاتصال عبر الإنترنت</string>
   <string name="sip_accounts">حسابات الاتصال عبر الإنترنت (SIP)</string>
   <string name="sip_accounts_title">الحسابات</string>
@@ -458,5 +458,5 @@
   <string name="no_internet_available">لإجراء اتصالٍ عبر الإنترنت، تحقق من الاتصال بالإنترنت أولاً</string>
   <string name="no_wifi_available">يجب الاتصال بشبكة Wi-Fi لإجراء مكالمات عبر الإنترنت (استخدم إعدادات اللاسلكي والشبكة)</string>
   <string name="no_voip">الاتصال عبر الإنترنت غير معتمد</string>
-  <string name="card_title_my_phone_number">My phone number: %s</string>
+  <string name="card_title_my_phone_number">رقم هاتفي: %s</string>
 </resources>

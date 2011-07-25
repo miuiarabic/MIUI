@@ -54,9 +54,9 @@
         <item>@string/account_settings_vibrate_when_never</item>
     </array>
     <string-array name="account_settings_vibrate_when_values">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>دائماَ</item>
+        <item>صامت</item>
+        <item>ابداً</item>
     </string-array>
     <array name="mailbox_display_names">
         <item>@string/mailbox_name_display_inbox</item>
