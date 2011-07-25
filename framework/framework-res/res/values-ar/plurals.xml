@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <plurals name="num_seconds_ago">
-        <item quantity="other">%d秒前</item>
-        <item quantity="one">1秒前</item>
+        <item quantity="other">ثواني %d قبل </item>
+        <item quantity="one">منذ 1 ثانية</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d分钟前</item>
-        <item quantity="one">1分钟前</item>
+        <item quantity="other">%d دقائق</item>
+        <item quantity="one">منذ دقيقة</item>
     </plurals>
     <plurals name="num_hours_ago">
-        <item quantity="other">%d小时前</item>
-        <item quantity="one">1小时前</item>
+        <item quantity="other">منذ %d ساعات</item>
+        <item quantity="one">ساعة مضت</item>
     </plurals>
     <plurals name="last_num_days">
-        <item quantity="other">过去%d天</item>
+        <item quantity="other">خلال %d أيام ماضية</item>
     </plurals>
     <plurals name="num_days_ago">
-        <item quantity="other">%d天前</item>
-        <item quantity="one">昨天</item>
+        <item quantity="other">منذ %d أيام</item>
+        <item quantity="one">أمس</item>
     </plurals>
     <plurals name="in_num_seconds">
-        <item quantity="other">%d秒后</item>
-        <item quantity="one">1秒后</item>
+        <item quantity="other">قبل %d ثواني</item>
+        <item quantity="one">1 ثانية</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">%d分钟后</item>
-        <item quantity="one">1分钟后</item>
+        <item quantity="other">%d دقائق</item>
+        <item quantity="one">بعد 1 دقيقة</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">%d小时后</item>
-        <item quantity="one">1小时后</item>
+        <item quantity="other">بعد %d ساعات</item>
+        <item quantity="one">1 ساعة</item>
     </plurals>
     <plurals name="in_num_days">
-        <item quantity="other">%d天后</item>
-        <item quantity="one">明天</item>
+        <item quantity="other"> %d أيام</item>
+        <item quantity="one">غدا</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">
-        <item quantity="other">%d秒前</item>
-        <item quantity="one">1秒前</item>
+        <item quantity="other">قبل %d ثواني </item>
+        <item quantity="one">منذ 1 ثانية</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d分钟前</item>
-        <item quantity="one">1分钟前</item>
+        <item quantity="other">%d دقائق</item>
+        <item quantity="one">منذ دقيقة</item>
     </plurals>
     <plurals name="abbrev_num_hours_ago">
-        <item quantity="other">%d小时前</item>
-        <item quantity="one">1小时前</item>
+        <item quantity="other">منذ %d ساعات</item>
+        <item quantity="one"> ساعة مضت</item>
     </plurals>
     <plurals name="abbrev_num_days_ago">
-        <item quantity="other">%d天前</item>
-        <item quantity="one">昨天</item>
+        <item quantity="other">%d أيام</item>
+        <item quantity="one">أمس</item>
     </plurals>
     <plurals name="abbrev_in_num_seconds">
-        <item quantity="other">%d秒后</item>
-        <item quantity="one">1秒后</item>
+        <item quantity="other">قبل %d ثواني</item>
+        <item quantity="one">ثانية</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d分钟后</item>
-        <item quantity="one">1分钟后</item>
+        <item quantity="other">%d دقائق</item>
+        <item quantity="one">بعد 1 دقيقة</item>
     </plurals>
     <plurals name="abbrev_in_num_hours">
-        <item quantity="other">%d小时后</item>
-        <item quantity="one">1小时后</item>
+        <item quantity="other">بعد %d ساعات</item>
+        <item quantity="one">ساعة</item>
     </plurals>
     <plurals name="abbrev_in_num_days">
-        <item quantity="other">%d 天后</item>
-        <item quantity="one">明天</item>
+        <item quantity="other">%d أيام</item>
+        <item quantity="one">غدا</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">有可用的 WLAN 网络</item>
-        <item quantity="one">有可用的 WLAN 网络</item>
+        <item quantity="other">شبكات WLAN المتوفرة</item>
+        <item quantity="one">شبكات WLAN المتوفرة</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">打开可用的 WLAN 网络</item>
-        <item quantity="one">打开可用的 WLAN 网络</item>
+        <item quantity="other"فتح شبكات WLAN المتوفرة</item>
+        <item quantity="one">فتح شبكات WLAN المتوفرة</item>
     </plurals>
 </resources>

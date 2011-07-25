@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="menu_share_ways">
-        <item>短信</item>
-        <item>邮件</item>
+        <item>SMS</item>
+        <item>البريد الإلكتروني</item>
     </string-array>
 </resources>

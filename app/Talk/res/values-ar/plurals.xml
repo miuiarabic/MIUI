@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <plurals name="messages_read">
-        <item quantity="other">%s 条已读消息</item>
-        <item quantity="one">%s 条已读消息</item>
+        <item quantity="other">%s قراءة مادة إخبارية</item>
+        <item quantity="one">%s قراءة مادة إخبارية</item>
     </plurals>
 </resources>

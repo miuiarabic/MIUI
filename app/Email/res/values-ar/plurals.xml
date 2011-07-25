@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <plurals name="notification_new_one_account_fmt">
-        <item quantity="other">%1$d 封未读邮件 (%2$s)</item>
-        <item quantity="one">%1$d 封未读邮件 (%2$s)</item>
-        <item quantity="few">%1$d 封未读邮件 (%2$s)</item>
+        <item quantity="other">%1$d غير مقروء (%2$s)</item>
+        <item quantity="one">%1$d غير مقروء (%2$s)</item>
+        <item quantity="few">%1$d غير مقروء (%2$s)</item>
     </plurals>
     <plurals name="notification_new_multi_account_fmt">
-        <item quantity="other">在 %d 个帐户中</item>
-        <item quantity="few">在 %d 个帐户中</item>
+        <item quantity="other"> %d في الحساب</item>
+        <item quantity="few"> %d في الحساب</item>
     </plurals>
     <plurals name="message_deleted_toast">
-        <item quantity="other">已删除消息。</item>
-        <item quantity="one">已删除消息。</item>
+        <item quantity="other">حذف الرسائل.</item>
+        <item quantity="one">حذف الرسائل.</item>
     </plurals>
     <plurals name="gal_completed_fmt">
         <item quantity="other">来自 %2$s 的 %1$d 条结果</item>

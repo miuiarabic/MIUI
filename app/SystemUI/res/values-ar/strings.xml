@@ -3,7 +3,7 @@
   <string name="app_label">شريط الحالة</string>
   <string name="status_bar_clear_all_button">محو</string>
   <string name="status_bar_no_notifications_title">ليس هناك أي تنبيهات</string>
-  <string name="status_bar_ongoing_events_title">On-going</string>
+  <string name="status_bar_ongoing_events_title">الجارية</string>
   <string name="status_bar_latest_events_title">التنبيهات</string>
   <string name="battery_low_title">الرجاء توصيل الشاحن</string>
   <string name="battery_low_subtitle">البطارية منخفضة:</string>
@@ -12,8 +12,8 @@
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_date_format">MMM d,</string>
   <string name="status_bar_date_format_lock">E, MMM d</string>
-  <string name="usb_accessory_uri_prompt">No installed applications work with this USB accessory. Learn more about this device at %1$s</string>
+  <string name="usb_accessory_uri_prompt">لا توجد تطبيقات مثبتة تعمل مع هذا الملحق USB. لمعرفة المزيد عن هذا الجهاز في%1$s</string>
   <string name="title_usb_accessory">ملحق USB</string>
   <string name="label_view">عرض</string>
-  <string name="always_use_accessory">Always use this USB device</string>
+  <string name="always_use_accessory">دائما استخدام هذا الجهاز USB</string>
 </resources>

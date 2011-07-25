@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="download_filters">
-        <item>Direct download</item>
-        <item>App Share</item>
-        <item>Music</item>
-        <item>Theme</item>
-        <item>Browser</item>
+        <item>تحميل مباشر</item>
+        <item>مشاركة التطبيقات</item>
+        <item>الموسيقى</item>
+        <item>الموضوع ( الثيم (.</item>
+        <item>المتصفح</item>
     </string-array>
 </resources>
