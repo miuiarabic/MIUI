@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="app_name">Superuser</string>
+  <string name="app_name">سوبر يوزر</string>
   <string name="app_name_request">Superuser Request</string>
   <string name="permlab_respond">respond to superuser requests</string>
   <string name="permdesc_respond">Allows the application to respond to requests for superuser access.</string>
