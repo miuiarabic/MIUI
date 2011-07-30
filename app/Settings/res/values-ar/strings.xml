@@ -434,7 +434,7 @@
   <string name="dlg_confirm_unmount_title">إلغاء تحميل SD card</string>
   <string name="dlg_confirm_unmount_text">إذا قمت بإلغاء تحميل بطاقة SD ، فإن بعض التطبيقات التي تُستخدم ستتوقف وقد تكون غير متوفرة حتى تقوم بتركيب بطاقة SD مرة ثانية.</string>
   <string name="dlg_error_unmount_title">فشل في إلغاء تحميل بطاقة SD</string>
-  <string name="dlg_error_unmount_text"لا يمكن إلغاء تحميل بطاقة SD. حاول فيما بعد</string>
+  <string name="dlg_error_unmount_text">لا يمكن إلغاء تحميل بطاقة SD. حاول فيما بعد</string>
   <string name="unmount_inform_text">SD card will be unmounted. Check the notification area for status.</string>
   <string name="sd_ejecting_title">إلغاء تحميل</string>
   <string name="sd_ejecting_summary">إلغاء التحميل قيد التقدم</string>
@@ -807,7 +807,7 @@
   <string name="voice_input_category">مدخل الصوت</string>
   <string name="voice_output_category">مخرج الصوت</string>
   <string name="recognizer_title">أداة تعرف الصوت</string>
-  <string name="recognizer_settings_title"أداة التعرف على إعدادات الصوت</string>
+  <string name="recognizer_settings_title">أداة التعرف على إعدادات الصوت</string>
   <string name="tts_settings">إعدادات تحويل النص  إلى كلام</string>
   <string name="tts_settings_title">إعدادات تحويل النص  إلى كلام</string>
   <string name="use_default_tts_settings_title">استخدام إعداداتي دائمًا</string>
