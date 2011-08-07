@@ -72,7 +72,7 @@
         <item quantity="one">شبكات WLAN المتوفرة</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other"فتح شبكات WLAN المتوفرة</item>
+        <item quantity="other">فتح شبكات WLAN المتوفرة</item>
         <item quantity="one">فتح شبكات WLAN المتوفرة</item>
     </plurals>
 </resources>
