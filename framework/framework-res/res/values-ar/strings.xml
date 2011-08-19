@@ -401,7 +401,7 @@
   <string name="permlab_readLogs">قراءة بيانات السجل الحساسة</string>
   <string name="permdesc_readLogs">للسماح لتطبيق ما بالقراءة من ملفات سجلات النظام المتنوعة. ويسمح ذلك للتطبيق باكتشاف المعلومات العامة حول ما تفعله بالهاتف، ومن المحتمل أن يتضمن معلومات شخصية أو خاصة.</string>
   <string name="permlab_diagnostic">قراءة/كتابة إلى الموارد المملوكة بواسطة التشخيص</string>
-  <string name="permdesc_diagnostic">للسماح لتطبيق ما بالقراءة والكتابة إلى أي مورد مملوك بواسطة مجموعة التشخيصات؛ على سبيل المثال، الملفات في /dev. من المحتمل أن يؤثر ذلك في استقرار النظام وأمانه. يجب ألا يستخدم ذلك سوى للتشخيصات الخاصة بالنظام من قِبل المصنِّع أو المشغِّل.</string>
+  <string name="permdesc_diagnostic">للسماح لتطبيق ما بالقراءة والكتابة إلى أي مورد مملوك بواسطة مجموعة التشخيصات؛ على سبيل المثال، الملفات في /dev. من المحتمل أن يؤثر ذلك في استقرار النظام وأمانه. يجب ألا يستخدم ذلك سوى للتشخيصات الخاصة بالنظام من قِبل المصنِّع أو المشغِّل.</string>
   <string name="permlab_changeComponentState">تمكين مكونات التطبيق أو تعطيلها</string>
   <string name="permdesc_changeComponentState">للسماح لتطبيق ما بالتغير سواء تم تمكين مكون تطبيق آخر أم لا. يمكن أن تستخدم التطبيقات الضارة ذلك لتعطيل إمكانيات الهاتف المهمة. يجب توخي الحذر عند استخدام هذا الإذن، حيث يحتمل أن يحول مكونات التطبيق إلى حالة غير قابلة للاستخدام أو غير متسقة أو غير مستقرة.</string>
   <string name="permlab_setPreferredApplications">تعيين التطبيقات المفضلة</string>
@@ -491,7 +491,7 @@
   <string name="permlab_devicePower">تشغيل الهاتف أو إيقاف تشغيله</string>
   <string name="permdesc_devicePower">للسماح للتطبيق بتشغيل الهاتف أو إيقاف تشغيله.</string>
   <string name="permlab_factoryTest">تشغيل في وضع اختبار المصنع</string>
-  <string name="permdesc_factoryTest">للتشغيل كاختبار مصنِّع بمستوى أدنى، مما يسمح بالدخول الكامل إلى جهاز الهاتف. لا يتوفر سوى عند تشغيل الهاتف في وضع اختبار المصنِّع.</string>
+  <string name="permdesc_factoryTest">للتشغيل كاختبار مصنِّع بمستوى أدنى، مما يسمح بالدخول الكامل إلى جهاز الهاتف. لا يتوفر سوى عند تشغيل الهاتف في وضع اختبار المصنِّع.</string>
   <string name="permlab_setWallpaper">تعيين الخلفية</string>
   <string name="permdesc_setWallpaper">للسماح للتطبيق بتعيين خلفية النظام.</string>
   <string name="permlab_setWallpaperHints">تعيين تلميحات حجم الخلفية</string>
@@ -503,11 +503,11 @@
   <string name="permlab_setTimeZone">تعيين المنطقة الزمنية</string>
   <string name="permdesc_setTimeZone">للسماح لتطبيق ما بتغيير المنطقة الزمنية للهاتف.</string>
   <string name="permlab_accountManagerService">العمل كخدمة مدير حساب</string>
-  <string name="permdesc_accountManagerService">للسماح لتطبيق ما بإجراء مكالمات إلى مصدِّقي الحساب</string>
+  <string name="permdesc_accountManagerService">للسماح لتطبيق ما بإجراء مكالمات إلى مصدِّقي الحساب</string>
   <string name="permlab_getAccounts">اكتشاف الحسابات المعروفة</string>
   <string name="permdesc_getAccounts">للسماح لتطبيق ما بالحصول على قائمة الحسابات المعروفة بواسطة الهاتف.</string>
-  <string name="permlab_authenticateAccounts">العمل كمصدِّق للحساب</string>
-  <string name="permdesc_authenticateAccounts">للسماح لتطبيق ما باستخدام إمكانيات مصدِّق الحساب لـ AccountManager، بما في ذلك إنشاء حسابات والحصول على كلمات مرورها وتعينها.</string>
+  <string name="permlab_authenticateAccounts">العمل كمصدِّق للحساب</string>
+  <string name="permdesc_authenticateAccounts">للسماح لتطبيق ما باستخدام إمكانيات مصدِّق الحساب لـ AccountManager، بما في ذلك إنشاء حسابات والحصول على كلمات مرورها وتعينها.</string>
   <string name="permlab_manageAccounts">إدارة قائمة الحسابات</string>
   <string name="permdesc_manageAccounts">للسماح لتطبيق ما بإجراء عمليات مثل إضافة حسابات وإزالتها وحذف كلمات مرورها.</string>
   <string name="permlab_useCredentials">استخدام بيانات اعتماد المصادقة لأحد الحسابات</string>
@@ -797,10 +797,10 @@
   <string name="default_permission_group">افتراضي</string>
   <string name="no_permissions">لا أذونات مطلوبة</string>
   <string name="perms_hide">
-    <b>隐藏</b>
+    <b>إخفاء</b>
   </string>
   <string name="perms_show_all">
-    <b>全部显示</b>
+    <b>إظهار</b>
   </string>
   <string name="usb_storage_activity_title">تخزين USB كبير السعة</string>
   <string name="usb_storage_title">USB متصل</string>
@@ -828,7 +828,7 @@
   <string name="fast_scroll_alphabet">\u0020أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي</string>
   <string name="fast_scroll_numeric_alphabet">\u00200123456789 أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي</string>
   <string name="candidates_style">
-    <u>候选</u>
+    <u>المظهر المرشح</u>
   </string>
   <string name="ext_media_checking_notification_title">Preparing SD card</string>
   <string name="ext_media_checking_notification_message">التحقق من الأخطاء.</string>
@@ -888,11 +888,11 @@
   <string name="throttled_notification_title">تم تجاوز حد بيانات الجوال</string>
   <string name="throttled_notification_message">يمكنك اللمس لمعرفة المزيد حول استخدام بيانات الجوال</string>
   <string name="progress_unmounting">Unmounting SD card...</string>
-  <string name="progress_erasing">Erasing SD card...</string>
-  <string name="format_error">Failed to erase SD card.</string>
+  <string name="progress_erasing">يتم محو بطاقة الSD...</string>
+  <string name="format_error">محو بطاقة الSD باء بالفشل</string>
   <string name="media_bad_removal">تمت إزالة بطاقة SD قبل أن يتم إلغاء تركيبها.</string>
-  <string name="media_checking">SD card is currently being checked.</string>
+  <string name="media_checking">يتم فحص بطاقة الSD</string>
   <string name="media_removed">تمت إزالة بطاقة SD.</string>
-  <string name="media_shared">SD card is currently in use by a computer.</string>
+  <string name="media_shared">بطاقةالSD تحت الاستعمال</string>
   <string name="media_unknown_state">وسائط خارجية في حالة غير معروفة.</string>
 </resources>
