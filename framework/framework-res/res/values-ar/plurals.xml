@@ -13,7 +13,7 @@
         <item quantity="one">ساعة مضت</item>
     </plurals>
     <plurals name="last_num_days">
-        <item quantity="other">خلال %d أيام ماضية</item>
+        <item quantity="other">أيام ماضية %d خلال</item>
     </plurals>
     <plurals name="num_days_ago">
         <item quantity="other">منذ %d أيام</item>
@@ -32,7 +32,7 @@
         <item quantity="one">1 ساعة</item>
     </plurals>
     <plurals name="in_num_days">
-        <item quantity="other"> %d أيام</item>
+        <item quantity="other">أيام %d</item>
         <item quantity="one">غدا</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">
